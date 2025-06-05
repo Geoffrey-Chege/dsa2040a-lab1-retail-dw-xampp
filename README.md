@@ -31,7 +31,17 @@ Load provided CSV data into dimension & fact tables, then run analytical queries
 
 5. **Create the Tables**  
    - Click **Import** → **Choose File** → select `schema.sql` → click **Go**.  
+   
+   ### Screenshot: Importing Schema
+
+   ![Tables Import](Screenshots/Screenshot-(122)-Lab-1.1.png)
+   
    - You should see a “success” message.
+
+   ### Screenshot: Success Messages
+
+   ![Success Message](Screenshots/Screenshot-(123)-Lab-1.2.png)
+
 
 6. **Load the Data**  
    - Click **Import** again → **Choose File** → select `load_data.sql` → click **Go**.   
@@ -39,6 +49,17 @@ Load provided CSV data into dimension & fact tables, then run analytical queries
 
 7. **Run Analysis Queries**  
    - Click **SQL** → either copy‐paste the contents of `queries.sql` or click “Choose File” → select `queries.sql` → click **Go**.
+
+   ### Screenshot: queries.sql content
+
+   ![SQL Query](Screenshots/Screenshot-(129)-Lab-1.3.png)
+
+   ### Screenshot: Analysis output
+
+   ![Top Products by Category](Screenshots/Screenshot-(131)-Lab-1.4.png)
+   ![Monthly Sales Trends](Screenshots/Screenshot-(132)-Lab-1.5.png)
+   ![Revenue by Region](Screenshots/Screenshot-(133)-Lab-1.6.png)
+   ![Top Products by Quantity Sold](Screenshots/Screenshot-(134)-Lab-1.7.png)
 
 ## Author
 Geoffrey Chege Mwangi
