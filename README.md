@@ -38,10 +38,7 @@ Load provided CSV data into dimension & fact tables, then run analytical queries
    - Once successful, verify each table by running `SELECT COUNT(*)` on `dim_date`, `dim_store`, `dim_product`, and `fact_sales`.
 
 7. **Run Analysis Queries**  
-   - Click **SQL** → either copy‐paste the contents of `queries.sql` or click “Choose File” → select `queries.sql` → click **Go**.  
-
-8. **Reflection**  
-   - Open `lab_writeup.pdf` to see the reflection questions. Fill them in (if not already done).  
+   - Click **SQL** → either copy‐paste the contents of `queries.sql` or click “Choose File” → select `queries.sql` → click **Go**.
 
 ## Author
 Geoffrey Chege Mwangi
