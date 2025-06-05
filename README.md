@@ -45,3 +45,10 @@ Load provided CSV data into dimension & fact tables, then run analytical queries
 
 ## Author
 Geoffrey Chege Mwangi
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+See the [LICENSE](LICENSE) file for details.
